@@ -48,7 +48,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Harvard University Herbaria", url = "https://huh.harvard.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "bloomfinder_logo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "bloomfinder@gmail.com"
   address = "22 Divinity Ave., Cambridge, MA 02138"
   office_hours = ""
