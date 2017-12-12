@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on BloomFinder</title>
-    <link>https://www.bloomfinder.org/home/</link>
+    <link>http://www.bloomfinder.org/home/</link>
     <description>Recent content in Homes on BloomFinder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BloomFinder on BloomFinder</title>
-    <link>https://www.bloomfinder.org/</link>
+    <link>http://www.bloomfinder.org/</link>
     <description>Recent content in BloomFinder on BloomFinder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Launching the BloomFinder Project</title>
-      <link>https://www.bloomfinder.org/post/launching_bloomfinder/</link>
+      <link>http://www.bloomfinder.org/post/launching_bloomfinder/</link>
       <pubDate>Tue, 12 Dec 2017 10:23:27 -0800</pubDate>
       
-      <guid>https://www.bloomfinder.org/post/launching_bloomfinder/</guid>
+      <guid>http://www.bloomfinder.org/post/launching_bloomfinder/</guid>
       <description>
 
 &lt;p&gt;Today I&amp;rsquo;m excited to officially launch BloomFinder, a new citizen-science project aimed at tracking the blooms of wildflowers using photographs on social media platforms like Flickr and Instagram.&lt;/p&gt;
@@ -40,10 +40,10 @@
     
     <item>
       <title>Focal Species</title>
-      <link>https://www.bloomfinder.org/project/species/</link>
+      <link>http://www.bloomfinder.org/project/species/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.bloomfinder.org/project/species/</guid>
+      <guid>http://www.bloomfinder.org/project/species/</guid>
       <description>
 
 &lt;h2 id=&#34;criteria-for-selecting-focal-species&#34;&gt;Criteria for selecting focal species.&lt;/h2&gt;
@@ -489,13 +489,13 @@
     
     <item>
       <title>Study Sites</title>
-      <link>https://www.bloomfinder.org/project/map/</link>
+      <link>http://www.bloomfinder.org/project/map/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.bloomfinder.org/project/map/</guid>
+      <guid>http://www.bloomfinder.org/project/map/</guid>
       <description>&lt;p&gt;Our study sites are located in heavily visited mountain natural areas throughout the western USA. These environments harbor meadow ecosystems that produce spectacular wildflower displays that are ecologically important and draw large numbers of human visitors.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.bloomfinder.org/img/study_site_map.png&#34; alt=&#34;Study sites&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.bloomfinder.org/img/study_site_map.png&#34; alt=&#34;Study sites&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on BloomFinder</title>
-    <link>https://www.bloomfinder.org/talk/</link>
+    <link>http://www.bloomfinder.org/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on BloomFinder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>

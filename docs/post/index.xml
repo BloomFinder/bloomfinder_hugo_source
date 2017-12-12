@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on BloomFinder</title>
-    <link>https://www.bloomfinder.org/post/</link>
+    <link>http://www.bloomfinder.org/post/</link>
     <description>Recent content in Posts on BloomFinder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Launching the BloomFinder Project</title>
-      <link>https://www.bloomfinder.org/post/launching_bloomfinder/</link>
+      <link>http://www.bloomfinder.org/post/launching_bloomfinder/</link>
       <pubDate>Tue, 12 Dec 2017 10:23:27 -0800</pubDate>
       
-      <guid>https://www.bloomfinder.org/post/launching_bloomfinder/</guid>
+      <guid>http://www.bloomfinder.org/post/launching_bloomfinder/</guid>
       <description>
 
 &lt;p&gt;Today I&amp;rsquo;m excited to officially launch BloomFinder, a new citizen-science project aimed at tracking the blooms of wildflowers using photographs on social media platforms like Flickr and Instagram.&lt;/p&gt;
